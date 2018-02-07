@@ -23,7 +23,7 @@ function doWhileLoop(funArray){
   }
   while(funArray.length > 0 && maybeTrue())
   
-  return
+  return funArray
 }
 
 function maybeTrue() {
