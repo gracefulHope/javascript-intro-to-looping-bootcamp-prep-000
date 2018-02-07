@@ -21,7 +21,11 @@ function doWhileLoop(funArray){
   do {
     
   }
-  while()
+  while(maybeTrue())
   
   return
+}
+
+function maybeTrue() {
+  return Math.random() >= 0.5
 }
