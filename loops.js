@@ -6,4 +6,5 @@ function forLoop(loopArray) {
       loopArray.push("I am ${i} strange loops")
     }
   }
+  return loopArray
 }
