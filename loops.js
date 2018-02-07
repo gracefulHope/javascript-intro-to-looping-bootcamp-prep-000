@@ -8,3 +8,11 @@ function forLoop(loopArray) {
   }
   return loopArray
 }
+
+function name {
+  while(){
+    
+  }
+  
+  return
+}
