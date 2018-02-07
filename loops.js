@@ -16,3 +16,12 @@ function whileLoop (num) {
   }
   return "done"
 }
+
+function doWhileLoop(){
+  do {
+    
+  }
+  while()
+  
+  return
+}
