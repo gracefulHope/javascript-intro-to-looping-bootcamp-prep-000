@@ -19,9 +19,9 @@ function whileLoop (num) {
 
 function doWhileLoop(funArray){
   do {
-    
+    funArray.pop()
   }
-  while(maybeTrue())
+  while(funArray.length > 0 && maybeTrue())
   
   return
 }
