@@ -9,10 +9,10 @@ function forLoop(loopArray) {
   return loopArray
 }
 
-function name {
-  while(){
-    
+function whileLoop (num) {
+  while(num >= 0){
+    console.log(num)
+    num--
   }
-  
-  return
+  return "done"
 }
